@@ -1,0 +1,7 @@
+A equção geral do plano:
+ 0x+0y-1z+3=0
+
+Equações parametricas
+x= 2-5h+2t 
+y= 1-2h+1t 
+z= 3+0h+0t 
