@@ -1,2 +1,2 @@
-# Trabalho-de-GAAL
-Trabalho de Geometria analítica e Álgebra linear, onde é fornecida 3 pontos A, B e C com coordenadas no eixo x, ye z. Fornecendo a equação geral do plano e suas equações paramétricas
+# Trabalho de Geometria  Analítica e Álgebra linear
+No arquivo Trabalho  irá ser colocados os números que deseja nos pontos A, B e C, que serão usados para descobrir a equação geral do plano e suas equações parametricasa.
